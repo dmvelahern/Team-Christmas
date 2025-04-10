@@ -13,9 +13,9 @@ Ex. Checking In Items
 ## Story
 As an <user>, I want <thing>, so <reason>
 
-##Additonal Information
+## Additonal Information
 
-##Prerequisites
+## Prerequisites
 Ex. Website or framework to house icons  <link the issue here if possible>
 
 ## Acceptance Criteria
