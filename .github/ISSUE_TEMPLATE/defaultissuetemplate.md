@@ -6,10 +6,6 @@ labels: feature
 assignees: ''
 
 ---
-
-## Subject
-Ex. Checking In Items
-
 ## Story
 As an <user>, I want <thing>, so <reason>
 
